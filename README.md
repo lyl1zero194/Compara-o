@@ -1,6 +1,6 @@
 # Comparação
 
-O programa Comparação compara através dois valores, qual é o maior valor numérico entre eles.
+O programa Comparação compara através de dois valores, qual é o maior valor numérico entre eles.
 
 
 
