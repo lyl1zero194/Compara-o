@@ -1,4 +1,4 @@
-# Compara-o
+# Comparação
 
 O programa Comparação compara através dois valores, qual é o maior valor numérico entre eles.
 
