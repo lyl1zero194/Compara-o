@@ -5,11 +5,11 @@ O programa Comparação compara através dois valores, qual é o maior valor num
 
 
 
-🔘 Onde usar: 
+# 🔘 Onde usar: 
 
 □ Pascalzin
 
-🔘 Como funciona:
+# 🔘 Como funciona:
 1. Digite um Número e pressione enter,
 2. Digite outro Número e pressione enter,
 3. Após a análise dentre as variáveis o resultado será mostrado com a frase: "... e seu valor é =...".
